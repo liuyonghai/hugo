@@ -1,239 +1,239 @@
-<?xml-stylesheet type="text/xsl" href="https://github.com/hugo/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/hugo/post/even-preview/</loc>
+    <loc>https://github.com/post/even-preview/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/about/</loc>
+    <loc>https://github.com/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/</loc>
+    <loc>https://github.com/categories/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/category-2/</loc>
+    <loc>https://github.com/categories/category-2/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/category-3/</loc>
+    <loc>https://github.com/categories/category-3/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/</loc>
+    <loc>https://github.com/post/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/preview/</loc>
+    <loc>https://github.com/tags/preview/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/tag-3/</loc>
+    <loc>https://github.com/tags/tag-3/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/</loc>
+    <loc>https://github.com/tags/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/theme-preview/</loc>
+    <loc>https://github.com/tags/theme-preview/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/theme-preview/</loc>
+    <loc>https://github.com/categories/theme-preview/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/hidden-post/</loc>
+    <loc>https://github.com/post/hidden-post/</loc>
     <lastmod>2018-03-08T22:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/english-preview/</loc>
+    <loc>https://github.com/post/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/english/</loc>
+    <loc>https://github.com/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/english/</loc>
+    <loc>https://github.com/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/tag-2/</loc>
+    <loc>https://github.com/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/japanese-preview/</loc>
+    <loc>https://github.com/post/japanese-preview/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/tag-4/</loc>
+    <loc>https://github.com/tags/tag-4/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://github.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://github.com/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/chinese-preview/</loc>
+    <loc>https://github.com/post/chinese-preview/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/tag-1/</loc>
+    <loc>https://github.com/tags/tag-1/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://github.com/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://github.com/categories/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/</loc>
+    <loc>https://github.com/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/shortcodes/</loc>
+    <loc>https://github.com/post/shortcodes/</loc>
     <lastmod>2018-02-01T18:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/shortcodes/</loc>
+    <loc>https://github.com/tags/shortcodes/</loc>
     <lastmod>2018-02-01T18:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/shortcodes/</loc>
+    <loc>https://github.com/categories/shortcodes/</loc>
     <lastmod>2018-02-01T18:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/js-flowchart-diagrams/</loc>
+    <loc>https://github.com/post/js-flowchart-diagrams/</loc>
     <lastmod>2015-03-04T21:57:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/js-sequence-diagrams/</loc>
+    <loc>https://github.com/post/js-sequence-diagrams/</loc>
     <lastmod>2015-03-04T21:57:45+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/syntax-highlighting/</loc>
+    <loc>https://github.com/tags/syntax-highlighting/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/categories/syntax-highlighting/</loc>
+    <loc>https://github.com/categories/syntax-highlighting/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/post/syntax-highlighting/</loc>
+    <loc>https://github.com/post/syntax-highlighting/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hugo/tags/tag-5/</loc>
+    <loc>https://github.com/tags/tag-5/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
