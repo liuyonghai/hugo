@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://github.com/liuyonghai/hugo.git/sitemap.xml
+Sitemap: https://github.com/hugo/sitemap.xml
